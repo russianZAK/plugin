@@ -6,7 +6,7 @@
 
 # <center>**Functions**</center>
 
-# Main target
+# - Main target
 ```javascript
 Show values of objects in code without starting it!
 ```
